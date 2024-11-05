@@ -1,0 +1,11 @@
+<resources>
+    <!-- 主要字符串资源 -->
+    <string name="app_name">TheFirst</string>
+    <string name="image_desc">Image description</string>
+    <string name="name_lion">Lion</string>
+    <string name="name_tiger">Tiger</string>
+    <string name="name_cat">Cat</string>
+    <string name="name_dog">Dog</string>
+    <string name="name_elephant">Elephant</string>
+    <string name="name_monkey">Monkey</string>
+</resources>
